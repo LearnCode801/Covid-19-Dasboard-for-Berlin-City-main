@@ -1,7 +1,3 @@
-Perfect! Here’s your **final portfolio-ready version** with the **image and demo link** included:
-
----
-
 # COVID-19 Live Dashboard (Berlin)
 
 ![COVID-19 Dashboard Screenshot](https://github.com/LearnCode801/Covid-19-Dasboard-for-Berlin-City-main/blob/main/logo%201.jpeg)
